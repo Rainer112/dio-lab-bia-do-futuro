@@ -10,7 +10,7 @@ Muitas pessoas têm problemas com desorganização do dinheiro, endividamento, f
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Auxilia as pessoas a agirem antes que as crises aconteçam, indicando mecanismos de defesa e estratégias para administração financeira.
+Auxilia as pessoas a agirem antes que as crises aconteçam, indicando mecanismos de defesa, melhores estratégias para gestão financeira, incluindo escolha de investimentos seguros.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
