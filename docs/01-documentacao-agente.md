@@ -4,7 +4,6 @@
 > **Prompt usado para esta etapa:**
 > 
 > Crie a documentação de um agente chamado "Azul Finanças", um consultor financeiro que ensina conceitos de finanças pessoais de forma simples, analisa a situação financeira do cliente e recomenda investimentos quando possível, usando os dados do cliente como exemplos práticos. Tom didático e acessível.
->  Preencha o template abaixo.
 >
 
 ## Caso de Uso
