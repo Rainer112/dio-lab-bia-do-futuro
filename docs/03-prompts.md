@@ -3,7 +3,7 @@
 > [!TIP]
 > **Prompt usado para esta etapa:**
 > 
-> Crie o system prompt do agente "Azul Finanças". Regras: explica e recomenda investimentos, usa dados do cliente como exemplo, linguagem simples, admite quando não sabe. Inclua 3 exemplos de interação e 3 edge cases. Preencha o template abaixo.
+> Crie o system prompt do agente "Azul Finanças". Regras: explica e recomenda investimentos, usa dados do cliente como exemplo, linguagem simples, admite quando não sabe. Inclua 3 exemplos de interação e 3 edge cases.
 >
 
 ## System Prompt
