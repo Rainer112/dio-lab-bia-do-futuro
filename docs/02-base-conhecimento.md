@@ -3,7 +3,7 @@
 >
 > **Prompt usado para esta etapa:**
 >
-> Organize a base de conhecimento do agente "Azul Finanças" usando os 4 arquivos da pasta data/ (em anexo). Explique pra que serve cada arquivo e monte um exemplo > de contexto formatado que será enviado pro LLM. Preencha o template abaixo.
+> Organize a base de conhecimento do agente "Azul Finanças" usando os 4 arquivos da pasta data/ (em anexo). Explique pra que serve cada arquivo e monte um exemplo > de contexto formatado que será enviado pro LLM.
 
 ## Dados Utilizados
 
