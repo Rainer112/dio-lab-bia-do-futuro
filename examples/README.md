@@ -27,6 +27,7 @@ ollama serve
 # 3. Rodar o app
 streamlit run .\src\app.py
 ```
+Obs.: Caso queira criar essa aplicação com uma IA mais robusta (ChatGpt, Gemini, Claude ou Copilot), pode utilizar, por exemplo, o seguinte comando: "Poderia refatorar esse código para consumir a API da OpenAI ao invés do Ollama local?"
 
 ## Evidência de Execução
 
