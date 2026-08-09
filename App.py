@@ -60,7 +60,7 @@ def perguntar(msg):
     return r.json()['response']
 
 # ============ INTERFACE ============
-st.title("🎓 Azul Finanças, o Educador Financeiro")
+st.title("🎓 Azul Finanças, o Consultor Financeiro")
 
 if pergunta := st.chat_input("Sua dúvida sobre finanças..."):
     st.chat_message("user").write(pergunta)
