@@ -6,24 +6,23 @@
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
-
-[Sua descrição aqui]
+> 
+"62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar - e tem medo de parecer burro perguntando".
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
+> 
+O Azul finanças é um Consultor financeiro que ensina de forma personalizada. Ele utiliza seus próprios dados para dar exemplos práticos. Pode recomendar investimentos se o cliente tiver um perfil bem definido. Está disponível 24h.
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+> Agente funcionando, com ou sem gravação de tela
 
-[Descreva o que será mostrado]
+- "O que é CDI?"
+- "Onde estou gastando mais?"
+- "Me explica o que é Tesouro Selic"
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+> Diferente de chatbots genéricos, o Azul Finanças usa seus dados como exemplo. Isso torna o aprendizado concreto. E o melhor: roda 100% local, sem custos e sem enviar seus dados para alguém.
 
 ---
 
