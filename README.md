@@ -1,4 +1,4 @@
-# 💙 Azul Finanças — Consultor Financeiro com IA
+# 🤖🔵 Azul Finanças — Consultor Financeiro com IA
 
 Agente conversacional que atua como consultor financeiro pessoal, explicando conceitos de finanças de forma simples e recomendando investimentos de acordo com o perfil do cliente.
 
@@ -24,15 +24,31 @@ O comportamento do agente é guiado por um *system prompt* que define suas regra
 ## Estrutura do projeto
 
 ```
-azul-financas/
-├── SRC/
-│   └── App.py                        # Aplicação principal (Streamlit)
-├── data/
-│   ├── perfil_investidor.json        # Perfil e objetivos do cliente
-│   ├── transacoes.csv                # Histórico de transações
-│   ├── historico_atendimento.csv     # Atendimentos anteriores
-│   └── produtos_financeiros.json     # Produtos disponíveis para recomendação
-└── docs/                             # Documentação do agente (caso de uso, prompts, métricas)
+📁 lab-agente-financeiro/
+│
+├── 📄 README.md
+│
+├── 📁 data/                          # Dados mockados para o agente
+│   ├── historico_atendimento.csv     # Histórico de atendimentos (CSV)
+│   ├── perfil_investidor.json        # Perfil do cliente (JSON)
+│   ├── produtos_financeiros.json     # Produtos disponíveis (JSON)
+│   └── transacoes.csv                # Histórico de transações (CSV)
+│
+├── 📁 docs/                          # Documentação do projeto
+│   ├── 01-documentacao-agente.md     # Caso de uso e arquitetura
+│   ├── 02-base-conhecimento.md       # Estratégia de dados
+│   ├── 03-prompts.md                 # Engenharia de prompts
+│   ├── 04-metricas.md                # Avaliação e métricas
+│   └── 05-pitch.md                   # Roteiro do pitch
+│
+├── 📁 src/                           # Código da aplicação
+│   └── app.py                        # (exemplo de estrutura)
+│
+├── 📁 assets/                        # Imagens e diagramas
+│   └── ...
+│
+└── 📁 examples/                      # Referências e exemplos
+    └── README.md
 ```
 
 ## Como executar
