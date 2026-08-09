@@ -2,25 +2,36 @@
 
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
+
+## Estrutura do Pitch
+
+| Tempo | Seção | O que falar |
+|-------|-------|-------------|
+| 0:00 - 0:30 | Problema | A dor que você resolve |
+| 0:30 - 1:30 | Solução | Como o Edu resolve |
+| 1:30 - 2:30 | Demo | Mostre funcionando |
+| 2:30 - 3:00 | Diferencial | Por que é inovador |
+
+---
  
 ## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
+### 1. 🎯 O Problema (30 seg)
 > 
 "62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar - e tem medo de parecer burro perguntando".
 
-### 2. A Solução (1 min)
+### 2. 💡 A Solução (1 min)
 > 
 O Azul finanças é um Consultor financeiro que ensina de forma personalizada. Ele utiliza seus próprios dados para dar exemplos práticos. Pode recomendar investimentos se o cliente tiver um perfil bem definido. Está disponível 24h.
 
-### 3. Demonstração (1 min)
+### 3. 📱 Demonstração (1 min)
 > Agente funcionando, com ou sem gravação de tela
 
 - "O que é CDI?"
 - "Onde estou gastando mais?"
 - "Me explica o que é Tesouro Selic"
 
-### 4. Diferencial e Impacto (30 seg)
+### 4. ✨ Diferencial e Impacto (30 seg)
 
 > Diferente de chatbots genéricos, o Azul Finanças usa seus dados como exemplo. Isso torna o aprendizado concreto. E o melhor: roda 100% local, sem custos e sem enviar seus dados para alguém.
 
