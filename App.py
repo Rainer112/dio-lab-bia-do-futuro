@@ -67,4 +67,4 @@ if pergunta := st.chat_input("Sua dúvida sobre finanças..."):
     with st.spinner("..."):
         st.chat_message("assistant").write(perguntar(pergunta))
 
-        
+# streamlit run .\SRC\App.py       
